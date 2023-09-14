@@ -11,7 +11,9 @@ This project is a replica of the Nike website homepage, built using React and Ta
 
 ## Demo
 
-https://aakash-rajbhar.github.io/Nike-Landing-Page/
+View here : https://aakash-rajbhar.github.io/Nike-Landing-Page/
+
+![Website Preview](assets/Website-Preview.png)
 
 
 ## Installation
